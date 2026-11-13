@@ -16,7 +16,7 @@
 | `code/tests` | 日期、解析、空报告保护和云文档幂等测试 |
 | `code/runtime` | 本地原文快照、审计、缓存与发布状态，Git 忽略 |
 | `report_add/week` | 生成的周报 Markdown |
-| `report_add/month`、`report_add/quar`、`year` | 预留归档目录；需求未指定这些周期的生成频率，未自动注册任务 |
+| `report_add/month`、`report_add/quar`、`report_add/year` | 预留归档目录；需求未指定这些周期的生成频率，未自动注册任务 |
 
 ## 本次历史回补
 
@@ -97,7 +97,7 @@ python -X utf8 code/publishing/github.py
 python -X utf8 code/publishing/github.py --push
 ```
 
-使用 `code/runtime/github_checkout` 中的隔离克隆，目标固定为需求指定的仓库。按允许列表复制本项目文件，不包含父目录其他项目、真实 `.env`、原文缓存或运行状态。复制前检查常见密钥和需求表中的明文密码。保留已有远端文件，不执行删除、强制推送或全局 Git 配置修改。依赖本机已配置 Git 作者身份及仓库写权限；首次命令只生成提交，`--push` 才推送。
+使用 `code/runtime/github_checkout` 中的隔离克隆，目标固定为需求指定的仓库。按允许列表复制本项目文件，不包含父目录其他项目、真实 `.env`、原文缓存或运行状态。复制前检查常见密钥和需求表中的明文密码。年报目录统一为 `report_add/year`，同步时移除旧 `year/.gitkeep` 空占位文件，保留其他远端文件，不执行强制推送或全局 Git 配置修改。依赖本机已配置 Git 作者身份及仓库写权限；首次命令只生成提交，`--push` 才推送，可用 `--message` 指定提交说明。
 
 ## 接口依据
 

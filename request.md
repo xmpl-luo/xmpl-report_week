@@ -26,7 +26,7 @@ markdown简报保存路径
 周简报保存路径： "D:\All_thing\Uesr_code\XMPL-report_week\report_add\week"
 月简报保存路径： "D:\All_thing\Uesr_code\XMPL-report_week\report_add\month"
 季度简报保存路径："D:\All_thing\Uesr_code\XMPL-report_week\report_add\quar"
-年简报保存路径： "D:\All_thing\Uesr_code\XMPL-report_week\year"
+年简报保存路径： "D:\All_thing\Uesr_code\XMPL-report_week\report_add\year"
 所有代码保存路径："D:\All_thing\Uesr_code\XMPL-report_week\code",后续所有代码在这个路径下新建文件夹保存
 
 通过lark机器人推送markdown文档
