@@ -1,0 +1,9 @@
+[
+  {"id":"gamerefinery","name":"GameRefinery","page":"https://www.gamerefinery.com/blog/","feeds":["https://www.gamerefinery.com/feed/"],"archives":["https://www.gamerefinery.com/{year}/{month}/feed/"],"sitemaps":["https://www.gamerefinery.com/post-sitemap.xml"],"scope":"游戏产品设计、机制、运营及市场回顾"},
+  {"id":"dof","name":"Deconstructor of Fun","page":"https://www.deconstructoroffun.com/blog","feeds":["https://www.deconstructoroffun.com/blog?format=rss"],"sitemaps":["https://www.deconstructoroffun.com/sitemap.xml"],"scope":"Game Mechanics、游戏机制与产品拆解"},
+  {"id":"sensortower","name":"Sensor Tower","page":"https://sensortower-china.com/zh-CN/blog","feeds":[],"sitemaps":["https://sensortower.com/zh-CN-blog-sitemap.xml"],"allowed_hosts":["sensortower.com","www.sensortower.com","sensortower-china.com","www.sensortower-china.com"],"scope":"游戏产品设计及相关市场研究"},
+  {"id":"gamedeveloper","name":"Game Developer","page":"https://www.gamedeveloper.com/about-the-game-developer-podcast","discovery_pages":["https://www.gamedeveloper.com/design","https://www.gamedeveloper.com/production"],"feeds":["https://www.gamedeveloper.com/rss.xml"],"sitemaps":[],"archive_sitemaps":["https://www.gamedeveloper.com/article/archive/{year}/{month}.xml","https://www.gamedeveloper.com/podcast/archive/{year}/{month}.xml"],"scope":"游戏设计、开发访谈与开发见解"},
+  {"id":"naavik","name":"Naavik","page":"https://naavik.substack.com/archive","feeds":["https://naavik.substack.com/feed"],"sitemaps":["https://naavik.substack.com/sitemap.xml"],"scope":"游戏产品设计与行业见解"},
+  {"id":"substack","name":"Substack","page":"https://substack.com/","feeds":[],"sitemaps":[],"manual_only":true,"scope":"需在 curated 中指定游戏出版物文章，平台首页不作为文章源"},
+  {"id":"fandom","name":"Fandom / Game Wiki","page":"https://www.fandom.com/","feeds":[],"sitemaps":[],"manual_only":true,"scope":"仅收录有原始发布日期的游戏文章；Wiki修改日期不视为首次发布"}
+]

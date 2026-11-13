@@ -1,0 +1,165 @@
+{
+  "review_method": "读取公开原文正文与datePublished元数据后人工撰写中文摘要；本批未调用付费摘要模型。",
+  "coverage": [
+    "本批为历史回补精选：依据公开原文及首次发布时间核实，统一按北京时间归档；页面显示日期可能与换算后的日期相差一天。",
+    "GameRefinery、DoF、Sensor Tower、Game Developer、Naavik 按各期实际可核实文章收录；DoF仅选产品拆解，未收录纯融资及财务新闻。",
+    "Naavik 已作为独立出版物统计，其 Substack 托管文章不重复收录；Substack 泛平台未另指定游戏出版物，Fandom 未取得可核实的区间内新增文章，本批不收录这两类内容。",
+    "RSS、归档和站点访问范围存在限制，本简报不声称完整覆盖全部来源；报告讨论的市场月份与文章发布日期分开处理。"
+  ],
+  "entries": [
+    {
+      "title": "AI进入核心玩法：模仿队友与自由文本裁决带来新交互",
+      "category": "游戏机制与产品设计",
+      "source": "Naavik", "published": "2026-09-02",
+      "url": "https://naavik.substack.com/p/how-ai-is-unlocking-novel-game-mechanics",
+      "points": [
+        "Naavik以《MIMESIS》《Death by AI》和《Status》讨论AI直接参与核心循环的可能性，而不仅是提高素材生产效率。",
+        "《MIMESIS》通过行为模仿和按情境重放玩家录音制造队友辨识压力；原文强调语音片段来自录制与重放，并非AI生成语音。",
+        "《Death by AI》让玩家自由输入求生方案，再由AI裁决结果；玩法扩展了行动空间，也使每轮推理成本成为运营约束，团队通过降低推理成本和增加付费选项改善经济性。"
+      ]
+    },
+    {
+      "title": "Afterworld用部族角色扮演降低大战略游戏入门门槛",
+      "category": "游戏机制与产品设计",
+      "source": "Game Developer", "published": "2026-09-01",
+      "url": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
+      "points": [
+        "Paradox的《Afterworld》将大战略放入末日后的文明重建背景，让玩家从小型部族出发，通过探索、资源选择和与其他势力接触逐步理解系统。",
+        "导演Dan Lind希望用部族身世与角色扮演引导玩家建立目标，减少新手一开始面对大量参数、却不知道该做什么的问题。",
+        "部族通过遭遇与探索获得新的观念，玩家再决定发展方向；文化塑造和故事选择成为复杂策略系统的入口。"
+      ]
+    },
+    {
+      "title": "儿童游戏设计需要同时回应孩子的兴趣与家长的信任",
+      "category": "市场洞察与运营",
+      "source": "Naavik", "published": "2026-08-31",
+      "url": "https://naavik.substack.com/p/the-future-of-kids-gaming",
+      "points": [
+        "Naavik指出，低龄儿童游戏的使用者和购买决策者往往分离：孩子负责玩，家长选择内容并付费，熟悉的IP因此也承担信任标识的作用。",
+        "Netflix Playground把儿童游戏集中在独立入口，提供无广告、无内购和离线体验，并纳入订阅；原文认为其业务目标更可能是维持订户，而非直接提高游戏流水。",
+        "针对尚未转向Roblox、Minecraft等UGC平台的低龄用户，安全、易理解和家长可接受的商业模式，需要与玩法一起设计。"
+      ]
+    },
+    {
+      "title": "广告变现应在立项时融入循环，混合休闲需明确收入主轴",
+      "category": "市场洞察与运营",
+      "source": "Sensor Tower", "published": "2026-09-01",
+      "url": "https://sensortower.com/zh-CN/blog/gaming-deep-dive-ad-monetization-china",
+      "points": [
+        "Sensor Tower指出，支持广告变现的产品仍贡献绝大多数游戏下载量；广告已影响用户触达、成长体系与参与方式，需要在产品设计早期考虑。",
+        "解谜游戏在多数大型广告网络中贡献超过一半的广告变现收入；非解谜产品选择广告网络时，还需评估品类与广告需求、目标用户是否匹配。",
+        "混合休闲已分化为广告优先和内购优先两种模式。原文认为内购经济体系通常能抬高收入上限，团队应尽早确定核心增长方式。"
+      ]
+    },
+    {
+      "title": "从id转向独立开发：控制范围，把预算投入玩家能感知的体验",
+      "category": "开发访谈与实践",
+      "source": "Game Developer", "published": "2026-09-11",
+      "url": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
+      "points": [
+        "Turnkey Games联合创始人Tony Garza与Richard O’Neal分享《Apart》的开发经验：以自筹资金逐步组建团队，控制固定成本，按实际需要补充专业协作。",
+        "团队用玩家能否察觉、体验是否变好的标准审视功能，愿意删减不重要的系统，避免把大型工作室的通用工具和规模要求照搬到独立项目。",
+        "Garza强调快速迭代与保持进展，O’Neal则强调找到满足体验的简单可靠方案；先把一款好游戏交付，再以反馈积累下一步能力。"
+      ]
+    },
+    {
+      "title": "Chess.com十年移动收入增长，靠训练循环承接赛事流量",
+      "category": "市场洞察与运营",
+      "source": "Naavik", "published": "2026-09-09",
+      "url": "https://naavik.substack.com/p/how-chesscom-100xd-mobile-revenue",
+      "points": [
+        "据Naavik引用的Sensor Tower估算，Chess.com移动端月均内购收入从2016年约5.6万美元增长至2026年约590万美元；该口径不含中国安卓、广告和直接面向消费者的收入。",
+        "本地化、移动功能补齐与训练内容先建立留存基础，赛事、内容传播和创作者再带来关注；原文并未把增长简单归因于某一次国际象棋热潮。",
+        "Puzzle Rush将训练转为可重复的五分钟冲分，并通过订阅档位设置挑战次数；课程、复盘与训练围绕持续进步形成付费理由。"
+      ]
+    },
+    {
+      "title": "Just Desserts对比Gossip Harbor：二合留存来自棋盘、订单和剧情的衔接",
+      "category": "游戏机制与产品设计",
+      "source": "Deconstructor of Fun", "published": "2026-09-16",
+      "url": "https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better",
+      "points": [
+        "DoF把二合循环拆为消耗体力生成物品、合并交付订单、推动剧情与场景建设；角色同时参与订单和故事，让棋盘行动获得叙事意义。",
+        "体力恢复、生成器冷却与棋盘空间共同控制节奏。原文提到Gossip Harbor将低等级生成器移到独立区域，减少占格压力，让合并和订单推进更顺畅。",
+        "两款产品结合周任务、月度通行证、卡册与限时棋盘活动；限时活动沿用熟悉的合并基础，再通过轻微规则变化提供新鲜感。"
+      ]
+    },
+    {
+      "title": "Roblox把AI工具串入创作流程，降低制作与测试门槛",
+      "category": "开发访谈与实践",
+      "source": "Naavik", "published": "2026-09-18",
+      "url": "https://naavik.substack.com/p/inside-robloxs-massive-bet-on-ai",
+      "points": [
+        "Naavik梳理Roblox从代码辅助到网格、材质、绑定、游戏逻辑与测试的AI布局；其重点是把能力接入Studio制作流程，帮助创作者更快迭代。",
+        "Roblox Build进入公开Alpha，以提示词生成包含机制、环境、角色与声音的可玩体验；原文同时介绍Cube在资产生成之外推断行为与逻辑的方向。",
+        "原文认为翻译、内容治理和发现系统也是AI的重要落点；世界模型与高保真体验属于更长期投入，需与当前可用创作工具区分。"
+      ]
+    },
+    {
+      "title": "暑期手游运营观察：探索副玩法、累积付费价值与闯关式PvP",
+      "category": "市场洞察与运营",
+      "source": "GameRefinery", "published": "2026-09-15",
+      "url": "https://www.gamerefinery.com/mobile-game-market-review-july-august-2026/",
+      "points": [
+        "9月15日发布的7—8月市场回顾指出，Coin Master、Royal Match和Tasty Travels等产品引入探索活动，把体力、地图推进和阶段奖励结合，部分加入合作与叙事。",
+        "Gossip Harbor周年转盘将免费奖励与可一次性解锁的高级奖励并行累积，使付费价值随参与增长；Seaside Escape则把连锁礼包嵌入活动推进。",
+        "Marvel SNAP的Draft与Brawl Stars的Topple The Tower把连续对局、阵容消耗或局间成长引入PvP，形成带有闯关和资源管理压力的限时体验。"
+      ]
+    },
+    {
+      "title": "8月手游榜显示，活动衔接比单次大促更能承接用户热度",
+      "category": "市场洞察与运营",
+      "source": "Sensor Tower", "published": "2026-09-16",
+      "url": "https://sensortower.com/zh-CN/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-august-2026-CN",
+      "points": [
+        "9月发布的8月榜单显示，全球App Store与Google Play手游支出为65.7亿美元，环比下降1%；下载量为37.6亿次，环比增长1%，数据不含第三方安卓渠道。",
+        "《Gossip Harbor》用周年合成任务、剧情救援和秋季收集活动连续承接热度；其他头部产品也把大版本、联动、限时竞赛和高频奖励搭配使用。",
+        "《Zeus: The God of Arrogance》以大规模战斗、不同成长阶段的竞技玩法、离线成长和制造职业构成长线体验，并进入当月收入增长榜前十。"
+      ]
+    },
+    {
+      "title": "Disney Solitaire以宽松前期经济和高频连胜活动改善纸牌循环",
+      "category": "游戏机制与产品设计",
+      "source": "Deconstructor of Fun", "published": "2026-09-25",
+      "url": "https://www.deconstructoroffun.com/blog/how-playtikas-best-game-became-its-biggest-headache",
+      "points": [
+        "DoF认为，《Disney Solitaire》在团队熟悉的玩法上引入适配受众的迪士尼IP，并借鉴休闲解谜产品的难度与活动节奏。",
+        "相比一开始就紧缩金币的设计，该作前期金币更充足、难度上升更缓，让玩家先积累进度；场景完成动画较快，也缩短了返回核心关卡的等待。",
+        "原文统计90天内该作出现610次活动实例，对比《Solitaire Grand Harvest》的392次；前者更重视连续获胜活动，后者促销和商店优惠占比较高。"
+      ]
+    },
+    {
+      "title": "三消关卡创新需匹配放松需求，强制高认知负担可能打断习惯",
+      "category": "游戏机制与产品设计",
+      "source": "Naavik", "published": "2026-09-23",
+      "url": "https://naavik.substack.com/p/why-innovative-match-3-levels-is",
+      "points": [
+        "Naavik区分可跳过的小游戏与阻挡主线进度的强制创新关卡，认为两者对三消受众的体验影响不同，不能仅凭机制新颖就视为有效卖点。",
+        "原文以Royal Kingdom、Match Villains等案例讨论战术目标、新规则和高难度组合带来的认知切换，认为这可能削弱玩家把游戏当作轻松陪伴的使用习惯。",
+        "作者主张围绕玩家需求设计创新，优先保持核心目标清晰与节奏顺畅；文中参与度对比属于观察性分析，并不能单独证明某种关卡导致产品增长受阻。"
+      ]
+    },
+    {
+      "title": "授权IP更像成功放大器，无法替代产品质量与商业验证",
+      "category": "市场洞察与运营",
+      "source": "Naavik", "published": "2026-09-21",
+      "url": "https://naavik.substack.com/p/the-real-value-of-licensed-ip",
+      "points": [
+        "Naavik以2015—2025年发行、Steam评论数超过100条的游戏为样本，比较授权IP与原创IP，并按发行年份校准累计销量差异。",
+        "研究样本含13,773款游戏，其中436款采用外部IP；授权IP在多数分位的销量表现更好，但表现较差的授权作品仍可能低于原创作品的中位水平。",
+        "原文强调这属于观察数据中的关联，不能当作授权本身的因果收益。团队仍需评估品质、预算、受众和授权成本，不能把IP当作避免失败的保证。"
+      ]
+    },
+    {
+      "title": "日本市场洞察：轻量解谜吸引下载，长线体系承接高价值付费",
+      "category": "市场洞察与运营",
+      "source": "Sensor Tower", "published": "2026-09-22",
+      "url": "https://sensortower.com/zh-CN/blog/state-of-japan-gaming-2026-china",
+      "points": [
+        "报告统计2025年8月至2026年7月，日本手游内购收入超过100亿美元，同比下降5.1%；下载量5.85亿次，同比下降5.4%，市场更依赖成熟玩家和长期参与。",
+        "排序解谜、方块解谜、对消和二合等轻量玩法拉动下载，其中排序解谜同比增长45.8%；4X策略则以9.4%的收入增幅领跑手游细分品类。",
+        "《eFootball》借世界杯相关活动带动收入，熟悉IP与持续内容运营仍有价值。报告下载口径基于App Store和Google Play估算，不含第三方安卓商店。"
+      ]
+    }
+  ]
+}
