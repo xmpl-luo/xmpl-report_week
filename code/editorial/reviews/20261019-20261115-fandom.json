@@ -1,0 +1,431 @@
+{
+  "period": {
+    "start": "2026-10-19",
+    "end": "2026-11-15"
+  },
+  "checked_on": "2026-11-16",
+  "search_url": "https://community.fandom.com/wiki/Special:Search?query=%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1&scope=internal&navigationSearch=true",
+  "requested_max_pages": 20,
+  "actual_pages": 13,
+  "results_screened": 319,
+  "page_result_counts": [
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    19
+  ],
+  "search_scope": "Community Central 本wiki条目搜索；不是全部Fandom游戏Wiki的全站搜索。",
+  "method": "逐页查看标题和摘要筛选内容方向，再打开25条候选正文检查博客头部发布日期或论坛首帖时间。没有将页面编辑时间、推荐卡片时间当作首次发表时间。",
+  "result": "这25条已检查正文的候选均早于指定时间范围，本轮没有发现可纳入四周周报的正文新文；此结论限于该搜索结果，不代表全Fandom没有新内容。",
+  "candidates": [
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:MysteryGomez/5_Lessons_I_learned_from_Nintendo",
+      "published": "2017-11-08",
+      "topic": "关卡内教学、受众定位与系列IP",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Pseudobread/Guided_Tour:_Roguelikes",
+      "published": "2014-02-05",
+      "topic": "随机性、永久死亡与系统互动",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Twinstonestudio/The_Last_Roman_Village_-_indie_strategy_game_coming_soon",
+      "published": "2019-06-23",
+      "topic": "村庄建设、士兵养成与策略防御",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:RansomTime/10_games_that_changed_my_Gaming_Life_-_part_1",
+      "published": "2016-07-25",
+      "topic": "玩家体验回顾与关卡、叙事评价",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Pseudobread/Guided_Tour:_Racing_Games",
+      "published": "2014-04-26",
+      "topic": "街机赛车、模拟赛车及混合类型",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Sirens_of_Oakvale/Want_to_Work_on_a_Game%3F",
+      "published": "2011-10-10",
+      "topic": "独立项目志愿开发及测试招募",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Spongebob456/Disability_Pride_Month:_Accessibility_and_Gaming",
+      "published": "2024-07-31",
+      "topic": "游戏无障碍和输入辅助",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:CuBaN_VeRcEttI/Celebrating_Hispanic_Heritage_Month:_How_Video_Game_Developers_Have_Been_Leading_the_Industry",
+      "published": "2023-10-03",
+      "topic": "西班牙语文化背景工作室与作品介绍",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Shadowfire115/Software_Design_and_Development_Questions_1",
+      "published": "2014-02-17",
+      "topic": "软件设计课程问答，游戏设计深度有限",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Jconrad91/BioShock_finite",
+      "published": "2017-11-28",
+      "topic": "BioShock Infinite玩家评测",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:TheBlueRogue/Guided_Tour:_Stealth_Games",
+      "published": "2014-06-27",
+      "topic": "潜行类型的隐藏、噪声、伪装与路线选择",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Jetupny/Lost_in_the_sauce.",
+      "published": "2017-09-11",
+      "topic": "远程小团队的学习、沟通和范围管理",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:That_Lamborghini_Guy/Driver:_Parallel_Lines_Wiki_Blog_2",
+      "published": "2016-06-14",
+      "topic": "游戏和Wiki介绍，非新产品设计报道",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:WikiNumbers/The_Ten_Commandments_of_Cardmaking",
+      "published": "2019-08-10",
+      "topic": "自制卡牌的平衡、文本与效果成本",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:ThePhoenixGhirl/Toram_Online_Wiki",
+      "published": "2017-12-12",
+      "topic": "Toram Online玩法及Wiki介绍",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Archivium/RP_Rant:_Sick_of_being_sick",
+      "published": "2011-07-22",
+      "topic": "角色扮演社区评论",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Matt_Hadick/Guided_Tour:_Zombies",
+      "published": "2013-07-25",
+      "topic": "僵尸题材与生存恐怖类型",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Violentpurge09/Project:_Soulscape",
+      "published": "2012-10-20",
+      "topic": "Terraria服务器项目与世界观设定",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Poketale85/Poketale",
+      "published": "2017-03-31",
+      "topic": "玩家同人概念与角色设定",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:AdventureWriter28/Anime,_Game_or_Manga%3F",
+      "published": "2010-12-22",
+      "topic": "动画、游戏、漫画个人比较",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/Forum:Forum:Love/Hate_Dragon%27s_Dogma",
+      "published": "2012-06-27",
+      "topic": "共享主机用户的单存档体验讨论；首帖时间2012-06-26 18:03 UTC，换算北京时间为次日",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Lady_Lostris/The_Games_Have_Just_Begun",
+      "published": "2023-11-01",
+      "topic": "恐怖主题社区活动，非游戏机制报道",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:TranStanley/Game_Guides_2.0",
+      "published": "2013-04-03",
+      "topic": "游戏攻略应用的产品设计，非游戏本体",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Brian_Linder/Community_Partnerships_September_Update:_Gaming_Highlights",
+      "published": "2024-09-04",
+      "topic": "游戏厂商和Wiki社区合作",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Brian_Linder/Community_Partnerships_Update:_Paid_Partnerships_and_Community_Benefits",
+      "published": "2024-07-23",
+      "topic": "广告合作与Wiki社区利益",
+      "status": "excluded",
+      "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+    }
+  ],
+  "historical_reading_notes": [
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:MysteryGomez/5_Lessons_I_learned_from_Nintendo",
+      "published": "2017-11-08",
+      "summary": [
+        "作者以初代马力欧首关和Star Fox 64对话说明教学可以嵌入实际游玩，在帮助新手的同时减少对熟练玩家的打断。",
+        "关于硬件和IP的评论强调面向自己的受众提供持续软件支持；属于2017年的个人经验，不能作为2026年新动态。"
+      ]
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:Pseudobread/Guided_Tour:_Roguelikes",
+      "published": "2014-02-05",
+      "summary": [
+        "文章区分传统Roguelike规则与后续混合类型，讨论随机地城、物品和永久死亡如何形成不可预演的风险与选择。",
+        "社区受访者将可互动的动态系统、组合策略及每次不同的挑战视为复玩性来源；属于2014年的类型导读。"
+      ]
+    },
+    {
+      "url": "https://community.fandom.com/wiki/User_blog:WikiNumbers/The_Ten_Commandments_of_Cardmaking",
+      "published": "2019-08-10",
+      "summary": [
+        "作者以个人制卡准则讨论整体平衡、统一效果文本和已有卡组主题；新增卡牌类型应有明确差异，而不只是改名。",
+        "强效果需要与条件、成本或后续影响匹配；这些是2019年的社区制卡观点，不是官方通用规范。"
+      ]
+    }
+  ],
+  "unverified_cards_moved_from_weekly_reports": [
+    {
+      "title": "Fandom导览｜Stupid Never Dies：变身系统的吸引力与限时战斗的摩擦",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-21",
+      "url": "https://www.fandom.com/curated/this-character-action-zombie-game-stumbles-into-its-own-way",
+      "original_url": "https://www.gamespot.com/reviews/this-character-action-zombie-game-stumbles-into-its-own-way/",
+      "points": [
+        "导览评测摘要肯定世界设定及变身系统，同时认为限时战斗拖累节奏，呈现核心能力吸引力与关卡节奏之间的摩擦。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜Switch Sports Resort：经典项目组合与多种游玩方式",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-20",
+      "url": "https://www.fandom.com/curated/nintendo-switch-sports-resort-is-the-best-entry-in-the-series",
+      "original_url": "https://www.gamespot.com/reviews/nintendo-switch-sports-resort-is-the-best-entry-in-the-series/",
+      "points": [
+        "推荐摘要将作品概括为系列运动项目的精选组合，并提及新模式、多种参与方式与 Leisure Sports，重点是熟悉内容与轻松参与的结合。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜Final Fantasy Resonance：为服务型作品保留故事体验",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-20",
+      "url": "https://www.fandom.com/curated/final-fantasy-resonance-saves-a-great-story-from-live-service-oblivion",
+      "original_url": "https://www.gamespot.com/reviews/final-fantasy-resonance-saves-a-great-story-from-live-service-oblivion/",
+      "points": [
+        "推荐评测聚焦将原服务型作品中的故事，以更接近经典《最终幻想》的体验重新呈现，为持续运营作品的叙事保存提供讨论入口。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜Dawn of War IV：现代化首作体验，同时吸收后续作品教训",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-21",
+      "url": "https://www.fandom.com/curated/warhammer-40-000-dawn-of-war-iv-looks-to-right-the-wrongs-of-its-predecessor",
+      "original_url": "https://www.gamespot.com/articles/warhammer-40000-dawn-of-war-iv-looks-to-right-the-wrongs-of-its-predecessor/",
+      "points": [
+        "预览摘要把新作定位为首代玩法的现代诠释，同时提及二、三代经验对设计的影响；值得关注系列迭代中如何筛选和继承核心体验。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜影之刃零评测：武侠动作表现构成主要吸引力",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-26",
+      "url": "https://www.fandom.com/curated/phantom-blade-zero-s-combat-is-so-good-you-won-t-care-the-story-makes-no-sense",
+      "original_url": "https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-care-the-story-makes-no-sense/",
+      "points": [
+        "导览摘要强调武侠风格战斗带来的动作电影体验，标题同时指出战斗与叙事评价的差异；可作为进一步阅读动作反馈与叙事整合的线索。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜影之刃零：关注高难动作游戏对玩家时间的要求",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-10-29",
+      "url": "https://www.fandom.com/curated/phantom-blade-zero-fixes-the-struggle-that-might-be-keeping-you-away-from-soulslikes",
+      "original_url": "https://www.gamespot.com/articles/phantom-blade-zero-fixes-the-struggle-that-might-be-keeping-you-away-from-soulslikes/",
+      "points": [
+        "推荐摘要认为作品对因高难度而离开类魂游戏的玩家更尊重时间，关注点是高难动作体验与玩家投入之间的平衡。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜哥斯拉重制评测：怪兽玩具幻想与重复刷取的取舍",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-11-02",
+      "url": "https://www.fandom.com/curated/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster",
+      "original_url": "https://www.gamespot.com/reviews/godzilla-destroy-all-monsters-melee-remastered-is-a-faithful-if-flawed-remaster/",
+      "points": [
+        "评测摘要认为作品最有趣的部分是模拟玩具般的怪兽对战幻想，重复刷取延长时长时则最弱，提示核心幻想与进度拖延可能互相抵消。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜时之笛重制评测：以呈现升级服务原有结构",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-11-04",
+      "url": "https://www.fandom.com/curated/the-zelda-ocarina-of-time-remake-shows-that-a-masterpiece-is-ageless",
+      "original_url": "https://www.gamespot.com/reviews/the-zelda-ocarina-of-time-remake-shows-that-a-masterpiece-is-ageless/",
+      "points": [
+        "导览评测摘要把本作称为尊重原作、呈现出色的重制，关注在更新表现的同时保留经典体验。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜Exterminauts：用蓝领题材区分熟悉的合作体验",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-11-09",
+      "url": "https://www.fandom.com/curated/exterminauts-is-like-helldivers-2-starring-home-depot-dads",
+      "original_url": "https://www.gamespot.com/articles/exterminauts-is-like-helldivers-2-starring-home-depot-dads/",
+      "points": [
+        "推荐标题将体验类比《Helldivers 2》，摘要认为蓝领风格的包装帮助作品在熟悉的体验中形成差异，提供题材表达与类型玩法结合的案例线索。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    },
+    {
+      "title": "Fandom导览｜Super Mario 3D Land：将2D系列思路带入3D世界",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom（GameSpot 导览摘要）",
+      "published": "2026-11-14",
+      "url": "https://www.fandom.com/curated/super-mario-3d-land-dared-to-embrace-2d-mario-in-a-3d-world",
+      "original_url": "https://www.gamespot.com/articles/super-mario-3d-land-dared-to-embrace-2d-mario-in-a-3d-world/",
+      "points": [
+        "回顾文章的标题和推荐摘要聚焦2D马力欧经验对3D冒险的启发，可作为研究维度转换和系列设计延续的阅读入口。"
+      ],
+      "evidence_kind": "curated_card",
+      "date_basis": "Fandom导览卡片time[itemprop=datePublished]；不代表关联GameSpot原文的首次发布日期"
+    }
+  ],
+  "search_followups": [
+    {
+      "checked_on": "2026-11-16",
+      "query": "游戏产品设计",
+      "search_url": "https://community.fandom.com/wiki/Special:Search?scope=internal&navigationSearch=true&query=%E6%B8%B8%E6%88%8F%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1",
+      "requested_max_pages": 20,
+      "actual_pages": 3,
+      "page_result_counts": [
+        25,
+        25,
+        9
+      ],
+      "results_screened": 59,
+      "last_page_has_next": false,
+      "new_results_compared_with_previous_search": 0,
+      "scope": "Community Central 本wiki；按用户指定链接逐页查看，未切换其他搜索范围。",
+      "review_method": "逐页筛查全部59条标题和摘要；与上一次319条结果去重，59条均已在上次结果中出现。5条相关或边界候选复用已读取的正文及发布日期证据；其余为Wiki功能、管理、界面设计、平台广告等方向。",
+      "reviewed_candidates": [
+        {
+          "url": "https://community.fandom.com/wiki/User_blog:Spongebob456/Disability_Pride_Month:_Accessibility_and_Gaming",
+          "published": "2024-07-31",
+          "topic": "游戏无障碍和输入辅助",
+          "status": "excluded",
+          "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+        },
+        {
+          "url": "https://community.fandom.com/wiki/User_blog:Shadowfire115/Software_Design_and_Development_Questions_1",
+          "published": "2014-02-17",
+          "topic": "软件设计课程问答，游戏设计深度有限",
+          "status": "excluded",
+          "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+        },
+        {
+          "url": "https://community.fandom.com/wiki/User_blog:Lady_Lostris/The_Games_Have_Just_Begun",
+          "published": "2023-11-01",
+          "topic": "恐怖主题社区活动，非游戏机制报道",
+          "status": "excluded",
+          "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+        },
+        {
+          "url": "https://community.fandom.com/wiki/User_blog:TranStanley/Game_Guides_2.0",
+          "published": "2013-04-03",
+          "topic": "游戏攻略应用的产品设计，非游戏本体",
+          "status": "excluded",
+          "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+        },
+        {
+          "url": "https://community.fandom.com/wiki/User_blog:Brian_Linder/Community_Partnerships_Update:_Paid_Partnerships_and_Community_Benefits",
+          "published": "2024-07-23",
+          "topic": "广告合作与Wiki社区利益",
+          "status": "excluded",
+          "reason": "首次发布时间早于2026-10-19；未纳入四周新发布内容"
+        }
+      ],
+      "result": "没有发现能补入2026-10-19至2026-11-15周报的新正文内容；未修改四周周报。"
+    }
+  ],
+  "cross_wiki_followup": {
+    "query": "游戏",
+    "scope": "cross-wiki",
+    "actual_pages": 20,
+    "results_screened": 500,
+    "added_articles": 4,
+    "added_content_revisions": 2,
+    "record": "20261019-20261115-fandom-cross-wiki.json",
+    "conclusion": "先前零条结论仅限Community Central站内搜索；跨Wiki后已有6条正文摘要补入对应周报。"
+  }
+}

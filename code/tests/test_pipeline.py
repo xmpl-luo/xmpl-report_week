@@ -45,6 +45,26 @@ class PipelineTests(unittest.TestCase):
     def test_empty_report_is_error(self):
         with self.assertRaises(ValueError): render(date(2026,9,1),date(2026,9,7),[],[])
 
+    def test_curated_card_does_not_claim_original_publication_date(self):
+        entry = dict(title='导览', category='游戏机制与产品设计', source='Fandom',
+                     published='2026-11-09', url='https://www.fandom.com/curated/example',
+                     original_url='https://www.gamespot.com/articles/example/',
+                     evidence_kind='curated_card', points=['仅依据可读导览摘要。'])
+        report = render(date(2026,11,9), date(2026,11,15), [entry], [])
+        self.assertIn('导览收录日期：2026-11-09', report)
+        self.assertNotIn('｜发布日期：', report)
+        self.assertIn('关联原文：https://www.gamespot.com/articles/example/', report)
+
+    def test_wiki_creation_and_content_revision_have_distinct_date_labels(self):
+        entry = dict(title='Wiki正文', category='游戏机制与产品设计', source='Fandom',
+                     published='2026-11-09', url='https://example.com/wiki/Page?oldid=1', points=['新增内容'])
+        for kind, label in [('wiki_article', '条目首次发布日期'), ('wiki_revision', '内容修订发布日期')]:
+            with self.subTest(kind=kind):
+                entry['evidence_kind'] = kind
+                result = render(date(2026,11,9), date(2026,11,15), [entry], [])
+                self.assertIn(f'｜{label}：2026-11-09', result)
+                self.assertNotIn('｜发布日期：', result)
+
     def test_remote_failures_not_success(self):
         with self.assertRaises(RuntimeError): checked({'code':999,'msg':'secret not echoed'})
         with self.assertRaises(RuntimeError): checked({'StatusCode':1})

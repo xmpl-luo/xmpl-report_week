@@ -1,0 +1,214 @@
+{
+  "search_url": "https://community.fandom.com/wiki/Special:Search?scope=cross-wiki&navigationSearch=true&query=%E6%B8%B8%E6%88%8F",
+  "query": "游戏",
+  "scope": "cross-wiki",
+  "checked_on": "2026-11-16",
+  "requested_max_pages": 20,
+  "actual_pages": 20,
+  "results_screened": 500,
+  "page_result_counts": [
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25
+  ],
+  "more_results_available": true,
+  "review_method": "先筛选前20页的标题及摘要，再核对优先候选正文和公开修订历史。活动索引内继续打开关联正文。新条目以API返回的parentid=0首次修订时间归档；两条更新以实际新增内容的修订时间归档，明确标为内容修订发布日期。所有UTC时间换算北京时间。",
+  "article_cutoff": "2026-11-15T15:59:59Z",
+  "entries": [
+    {
+      "title": "原神「全域镇卫」：用多战线任务与共享威胁进度串联旗舰活动",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom · Genshin Impact Wiki",
+      "published": "2026-10-24",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Grand_Defense:_Defy_the_Unjust_Judgment?oldid=2210043",
+      "evidence_kind": "wiki_article",
+      "first_published_at": "2026-10-24T09:31:44Z",
+      "first_revision_id": 2198855,
+      "body_revision_id": 2210043,
+      "body_revision_at": "2026-11-15T08:40:03Z",
+      "points": [
+        "活动把紧急救援、空域作战与战术扫荡分布到多个地区：分别以定位并护送目标、沿航线行动和部署队伍挑战限时首领，提供不同操作体验。",
+        "完成行动会降低地区威胁值，并在阶段阈值发放资源；整体威胁降至30%可自选四星角色，使不同战线的任务汇入共同目标。",
+        "剧情推进负责解锁相关区域，也向满足基础条件的玩家提供快速开始入口；部分剧情体验及进度在活动结束后保留。活动11月4日开始，条目首次建立于10月24日。"
+      ]
+    },
+    {
+      "title": "原神「砺行修远」第六周期：日常目标累积为八周成长奖励",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom · Genshin Impact Wiki",
+      "published": "2026-11-01",
+      "url": "https://genshin-impact.fandom.com/wiki/To_Temper_Thyself_and_Journey_Far/2026-11-02?oldid=2200225",
+      "evidence_kind": "wiki_article",
+      "first_published_at": "2026-11-01T00:29:17Z",
+      "first_revision_id": 2200225,
+      "body_revision_id": 2200225,
+      "body_revision_at": "2026-11-01T00:29:17Z",
+      "points": [
+        "每日领取四次委托奖励并消耗120点原粹树脂，完成训练；每周累计五次日训练达成周目标，再把周目标转换为长期阶段进度。",
+        "完成八个周目标可从名单中选择已拥有角色的命之座奖励，但不能重复选择过去该活动已兑换过的角色，持续参与与角色长期培养相连。",
+        "八周目标完成后，后续每周可继续领取额外训练奖励，避免核心目标完成后参与动力立即消失；本周期11月2日开始，正文条目发表于11月1日。"
+      ]
+    },
+    {
+      "title": "原神「相遇·悠久旅途之暇」：用低门槛限时任务引导体验新增曲目",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom · Genshin Impact Wiki",
+      "published": "2026-11-02",
+      "url": "https://genshin-impact.fandom.com/wiki/Encounter:_Interlude_of_the_Long_Journey_(Event)?oldid=2206186",
+      "evidence_kind": "wiki_article",
+      "first_published_at": "2026-11-02T04:36:36Z",
+      "first_revision_id": 2200483,
+      "body_revision_id": 2206186,
+      "body_revision_at": "2026-11-08T17:17:31Z",
+      "points": [
+        "「千音雅集」在7.2版本加入新专辑，并用限时演奏任务为已有节奏系统引入新内容体验目标。",
+        "玩家在任意难度的八个曲谱上达到Dulcem评级即可获取额外60原石，奖励任务允许选择难度，降低尝试新增曲目的门槛。"
+      ]
+    },
+    {
+      "title": "原神「Chronicle of Polyphony」：通行证任务连接UGC探索、游玩与社交",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom · Genshin Impact Wiki",
+      "published": "2026-11-04",
+      "url": "https://genshin-impact.fandom.com/wiki/Miliastra_Pass/2026-11-04?oldid=2201343",
+      "evidence_kind": "wiki_article",
+      "first_published_at": "2026-11-04T06:26:06Z",
+      "first_revision_id": 2201342,
+      "body_revision_id": 2201343,
+      "body_revision_at": "2026-11-04T06:27:38Z",
+      "points": [
+        "周任务把完成一定局数与累计游玩时长设置为可替代条件，例如完成五局或游玩20分钟；玩家可以通过不同参与方式积累通行证经验。",
+        "其他任务鼓励体验三个不同奇域、组队完成对局、解锁关卡成就和参与排行，既提供重复游玩目标，也推动发现不同UGC内容及社交参与。",
+        "奖励区分默认开放与额外解锁档位，并支持已解锁档位补差升级；奇域通行证和本体纪行之间还有一次性购买优惠联动。"
+      ]
+    },
+    {
+      "title": "Jujutsu Shenanigans更新：限制场外特效并修复可视化反馈",
+      "category": "开发访谈与实践",
+      "source": "Fandom · Jujutsu Shenanigans Wiki",
+      "published": "2026-10-21",
+      "url": "https://jujutsu-shenanigans.fandom.com/wiki/Update_Log?oldid=43015",
+      "evidence_kind": "wiki_revision",
+      "content_published_at": "2026-10-21T11:57:41Z",
+      "body_revision_id": 43015,
+      "diff_url": "https://jujutsu-shenanigans.fandom.com/wiki/Update_Log?diff=prev&oldid=43015",
+      "points": [
+        "10月21日新增的更新记录说明，Creator Clash在观战或对局时不再显示范围外其他玩家的视觉特效，并增加统一的特效数量限制。",
+        "同时修复开启视觉限制后粒子不出现的问题；更新还补入Sky Assassin动画并恢复旧破坏系统，反映特效控制、表现完整性与稳定性需要同步调整。"
+      ]
+    },
+    {
+      "title": "Jujutsu Shenanigans V1.84：扩充角色招式，同时调整竞技地图与交互反馈",
+      "category": "游戏机制与产品设计",
+      "source": "Fandom · Jujutsu Shenanigans Wiki",
+      "published": "2026-11-09",
+      "url": "https://jujutsu-shenanigans.fandom.com/wiki/Update_Log?oldid=44933",
+      "evidence_kind": "wiki_revision",
+      "content_published_at": "2026-11-08T23:19:50Z",
+      "body_revision_id": 44933,
+      "diff_url": "https://jujutsu-shenanigans.fandom.com/wiki/Update_Log?diff=prev&oldid=44933",
+      "points": [
+        "Hired Killer加入六个基础招式、七种变体和一个特殊能力；Register向公众开放，并补充两个觉醒招式，持续扩展角色的操作与组合空间。",
+        "排位地图默认改为无草地、无破坏物的平坦区域；同时调整领域冲突中的攻击和冷却规则，将竞技对抗条件与场景破坏体验分开处理。",
+        "新增伤害计数和重生设置，为顶部按钮补充说明，并强化地面物品可见提示；破坏系统也更新同步与移动部件固定逻辑。"
+      ]
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "title": "Currency Wars: Zero-Sum Game/Investment Strategy",
+      "url": "https://honkai-star-rail.fandom.com/wiki/Currency_Wars:_Zero-Sum_Game/Investment_Strategy",
+      "first_observed_creation": "2025-11-27",
+      "latest_observed_revision": "2026-08-11",
+      "reason": "正文与修订均早于区间"
+    },
+    {
+      "title": "Grow a Garden 2",
+      "url": "https://growagarden2.fandom.com/wiki/Grow_a_Garden_2",
+      "latest_observed_revision": "2026-08-11",
+      "reason": "已有6月修订，最近修订亦早于区间"
+    },
+    {
+      "title": "Welcome to the Game III",
+      "url": "https://welcometothegame.fandom.com/wiki/Welcome_to_the_Game_III",
+      "reason": "已有9月或更早版本；11月11日只增加隐藏二维码趣闻，不作为新玩法报道"
+    },
+    {
+      "title": "Just Dance: Decades of Hits",
+      "url": "https://justdance.fandom.com/wiki/Just_Dance:_Decades_of_Hits",
+      "reason": "7月已公布，旧条目持续编辑；近期多数为宣传图片、发售状态和Trivia，不以近期编辑日冒充首次发布时间"
+    },
+    {
+      "title": "Animal Hospital (Game)",
+      "url": "https://animal-hospital.fandom.com/wiki/Animal_Hospital_(Game)",
+      "reason": "已有9月及更早版本；10月25日为缩略图编辑和回退"
+    },
+    {
+      "title": "Cookie Run: OvenSmash",
+      "url": "https://cookierun.fandom.com/wiki/Cookie_Run:_OvenSmash",
+      "latest_observed_revision": "2026-06-09",
+      "reason": "最近修订早于区间"
+    },
+    {
+      "title": "GoreBox 2027",
+      "url": "https://gorebox.fandom.com/wiki/GoreBox_2027",
+      "reason": "旧条目有10月27日Alpha信息，但没有将游戏发售日或编辑日当作条目首次发布时间"
+    },
+    {
+      "title": "Sugar Festival Event (2026)",
+      "url": "https://adoptme.fandom.com/wiki/Sugar_Festival_Event_(2026)",
+      "latest_observed_revision": "2026-10-09",
+      "reason": "3月至4月活动；最新修订也早于区间"
+    },
+    {
+      "title": "Version History (Animosity)",
+      "url": "https://gorebox.fandom.com/wiki/Version_History_(Animosity)",
+      "reason": "区间内修订主要删除错误和玩笑内容，不作为新产品设计信息"
+    },
+    {
+      "title": "The Hunt: ROBLOX 20",
+      "url": "https://workatapizzaplace.fandom.com/wiki/The_Hunt:_ROBLOX_20",
+      "reason": "9月活动，已有9月或更早内容；10月27日小幅修订不是新活动发布日期"
+    },
+    {
+      "title": "Merge Tactics",
+      "url": "https://clashroyale.fandom.com/wiki/Merge_Tactics",
+      "latest_observed_revision": "2026-09-16",
+      "reason": "最近修订早于区间"
+    },
+    {
+      "title": "Fears to Fathom - Scratch Creek",
+      "url": "https://fearstofathom.fandom.com/wiki/Fears_to_Fathom_-_Scratch_Creek",
+      "reason": "已有8月及更早正文；11月编辑主要为地点、成就和流程的小幅补充，且正文发售时间陈述存在矛盾"
+    },
+    {
+      "title": "Stress Block Smashing Project",
+      "url": "https://genshin-impact.fandom.com/wiki/Stress_Block_Smashing_Project",
+      "first_published_at": "2026-10-24T09:31:50Z",
+      "body_revision_id": 2209462,
+      "reason": "创建日期在区间，但截至11月15日仍为11月20日活动预告，未提供具体玩法机制，正文信息不足"
+    }
+  ],
+  "source_quality_notes": [
+    "Miliastra Pass条目购买截止时间误写为2026/05/18，与11月周期冲突，摘要未采用该字段。",
+    "历史页面可通过已登录Edge读取。公开HTTP下载历史正文返回403，未重试绕过；首次和指定修订UTC时间由公开MediaWiki API核对，正文依据浏览器已读取的固定历史版本。",
+    "筛查500条不代表逐条阅读全文；优先复核与新玩法、活动和更新相关的候选，不声称全站全量覆盖。"
+  ]
+}
